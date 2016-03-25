@@ -114,7 +114,7 @@ $row=mysql_num_rows($res);
 			<div class="col-md-6 footer-right">
                 <p><a href="http://www.startbootstrap.com">NFCPAy</a> is an open source project. </p><p>Developed by <a href="http://github.com/prabh13">Prabhjeet Singh Chawla</a> & 
 				<a href="http://">Rohit Kumar</a>.</p>
-                <p><a href="hhtp://rvce.edu.in">Student at RV-ISE (2017 batch)</a></p>
+                <p><a href="http://rvce.edu.in">Student at RV-ISE (2017 batch)</a></p>
               
             </div>
           </div>
