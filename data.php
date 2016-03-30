@@ -1,10 +1,7 @@
 <?php 
-
 include "db.php";
 $q="select * from readings where amtpay!=0";
 $res=mysql_query($q);
-
-
 ?>
 
 
@@ -110,8 +107,7 @@ $res=mysql_query($q);
           </div><!-- /.row -->
         </section><!-- /.content -->
      
-      <footer class="main-footer">
-         </footer>
+      
     </div><!-- ./wrapper -->
 
     <!-- jQuery 2.1.3 -->
